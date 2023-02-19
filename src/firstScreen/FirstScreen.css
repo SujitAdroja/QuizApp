@@ -1,0 +1,23 @@
+.first-page {
+  text-align: center;
+}
+.heading {
+  font-size: 40px;
+  color: #293264;
+  margin-bottom: 15px;
+}
+.description {
+  font-size: 18px;
+  letter-spacing: 1px;
+  margin-bottom: 40px;
+}
+.btn {
+  font-size: 20px;
+  letter-spacing: 1.2px;
+  border: none;
+  color: #f5f7fb;
+  background-color: #4d5b9e;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-align: center;
+}
